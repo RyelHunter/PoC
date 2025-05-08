@@ -1,8 +1,8 @@
 {
-    "url": "https://ryelhunter.github.io/poc/xss/swagger/test-html.yaml",
+    "url": "https://ryelhunter.github.io/poc/docs/xss/swagger/test-html.yaml",
     "urls": [
         {
-            "url": "https://ryelhunter.github.io/poc/xss/swagger/test-html.yaml",
+            "url": "https://ryelhunter.github.io/poc/docs/xss/swagger/test-html.yaml",
             "name": "PoC XSS Swagger"
         }
     ]
